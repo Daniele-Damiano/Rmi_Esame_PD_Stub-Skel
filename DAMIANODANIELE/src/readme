@@ -1,0 +1,11 @@
+//Modifiche al progetto
+
+Classe ServerLibro
+
+1) Dichiarato Serverlibro con modificatore static
+2) Modifica al metodo Aggiorna cambiata iterazione l con  memLibro nel ciclo for
+3) Modifica nella condizione del while al posto di 1 messo true
+4) Gestita Eccezione RemoteException ai metodi stampaLibroAutore() e StampaTuttiiLibri()
+
+Classe ClientLibro
+1) Modificata nella condizione del ciclo while al posto di 1 messo true 
